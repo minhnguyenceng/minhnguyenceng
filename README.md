@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Web development
-- 🌱 I’m currently learning ... JavaScript
-- 👯 I’m looking to collaborate on ... software project
+- 🔭 I’m currently working on ... Data Science
+- 🌱 I’m currently learning ... Python
+- 👯 I’m looking to collaborate on ... Machine Learning
 - 🤔 I’m looking for help with ...  Job Referral
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... minhnguyenceng@gmail.com
